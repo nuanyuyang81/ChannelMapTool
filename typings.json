@@ -1,0 +1,5 @@
+{
+  "globalDependencies": {
+    "intro.js": "registry:dt/intro.js#2.4.0+20170310070322"
+  }
+}
